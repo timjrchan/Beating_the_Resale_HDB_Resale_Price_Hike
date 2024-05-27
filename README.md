@@ -1,5 +1,8 @@
 #  ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2 - Singapore Housing Data and Kaggle Challenge
 
+
+The dataset can be found on [Kaggle](https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/overview)
+
 # Background
 
 Anchoring bias affects home prices by setting a psychological benchmark that influences buyers’ and sellers’ expectations. Recent news articles such as [Straits Times](https://www.straitstimes.com/singapore/housing/hdb-resale-prices-rise-15-in-january-record-74-units-sold-for-at-least-1-million-each) affect people’s perceptions on prices of resale flats, causing overvaluation of subsequent future resale prices. With [13.4% of BTO Flats being sold within a year of MOP](https://stackedhomes.com/editorial/13-4-of-bto-flats-were-sold-within-a-year-of-mop/#gs.5s7x2y), most resale flat buyers will be looking to buy with little to no transaction history, and such benchmarks leads buyers into overpaying for their flat without substancial evidence backing the valuation. This results in penalties by HDB in the form of Cash over Valuation [(COV)](https://www.propertyguru.com.sg/property-guides/what-is-cov-and-how-it-affects-your-hdbs-appreciation-10332) which further impacts buyer financials and grows the possible housing bubble in Singapore.
